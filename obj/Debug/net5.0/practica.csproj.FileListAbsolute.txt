@@ -1,0 +1,16 @@
+C:\Users\Barba\Desktop\practica\bin\Debug\net5.0\practica.exe
+C:\Users\Barba\Desktop\practica\bin\Debug\net5.0\practica.deps.json
+C:\Users\Barba\Desktop\practica\bin\Debug\net5.0\practica.runtimeconfig.json
+C:\Users\Barba\Desktop\practica\bin\Debug\net5.0\practica.runtimeconfig.dev.json
+C:\Users\Barba\Desktop\practica\bin\Debug\net5.0\practica.dll
+C:\Users\Barba\Desktop\practica\bin\Debug\net5.0\ref\practica.dll
+C:\Users\Barba\Desktop\practica\bin\Debug\net5.0\practica.pdb
+C:\Users\Barba\Desktop\practica\obj\Debug\net5.0\practica.csproj.AssemblyReference.cache
+C:\Users\Barba\Desktop\practica\obj\Debug\net5.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barba\Desktop\practica\obj\Debug\net5.0\practica.AssemblyInfoInputs.cache
+C:\Users\Barba\Desktop\practica\obj\Debug\net5.0\practica.AssemblyInfo.cs
+C:\Users\Barba\Desktop\practica\obj\Debug\net5.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\Barba\Desktop\practica\obj\Debug\net5.0\practica.dll
+C:\Users\Barba\Desktop\practica\obj\Debug\net5.0\ref\practica.dll
+C:\Users\Barba\Desktop\practica\obj\Debug\net5.0\practica.pdb
+C:\Users\Barba\Desktop\practica\obj\Debug\net5.0\practica.genruntimeconfig.cache
